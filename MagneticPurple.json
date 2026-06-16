@@ -1,0 +1,40 @@
+{
+    "manifest": {
+        "author": "anormalaccountsalt#0000",
+        "name": "Magnetic Purple",
+        "version": " who cares"
+    },
+    "simple_colors": {
+        "background": -14148562,
+        "background_secondary": -10276227,
+        "accent": -9564673
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/xohyjyjcyjcykg\/hi\/raw\/refs\/heads\/main\/Forum-Regular.ttf"
+    },
+    "colors": {
+        "text_normal": -1,
+        "text_muted": -1,
+        "link": -15437090,
+        "primary_dark_200": -5111553,
+        "primary_dark_330": -11656569,
+        "primary_dark_360": -5111553,
+        "white_500": -5111553,
+        "uikit_settings_item_text_color_light": -13101739,
+        "uikit_btn_bg_color_selector_red": -12180886,
+        "primary_dark_300": -5367851,
+        "brand_new_360": -5570305,
+        "uikit_settings_item_text_color_dark": -5111553,
+        "dim_foreground_material_light": -11593607
+    },
+    "background": {},
+    "raws": {},
+    "drawable_tints": {
+        "ic_status_online_16dp": -5407038,
+        "ic_status_idle_16dp": -8110684,
+        "ic_status_dnd_16dp": -5755250,
+        "ic_status_invisible_16dp": -5407038,
+        "drawable_button_grey": -12778142,
+        "ic_mobile": -5407040
+    }
+}
